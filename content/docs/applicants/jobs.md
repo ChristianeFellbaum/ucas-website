@@ -1496,7 +1496,7 @@ The UCA should attend some of the weekly seminars, specific dates to be agreed u
 
 
 **Responsibilities (Approximately 5-6 hours/week):**
-- Attend approximately half of the weekly seminar meeting (Fridays 11AM-12:20PM) , give feedback in class, and review the students’ project updates and action items presented there.
+- Attend approximately half of the weekly seminar meeting (Fridays 10:30AM-12:00PM) , give feedback in class, and review the students’ project updates and action items presented there.
 - Hold office hours for ~3 hours/week for students to stop by esp. around key deadlines (beginning and end of semester, midpoint checkpoint) and clarify conceptual questions,  troubleshoot technical problems.
 - Approximately 5-6 hours/week. There'll be less in the middle of the semester and more at the beginning and the very end.
 
